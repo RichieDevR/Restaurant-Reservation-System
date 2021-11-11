@@ -6,7 +6,23 @@ Some features include:
 
 View all reservations on the Dashboard. The reservations are listed by date, which the user is able to change. Create and edit reservations. Create tables for seating your reservations. Assign a table to a reservation upon arrival at the restaurant. Free a table when the reservation has finished dining and leaves. Search for a reservation by mobile number. Cancel a reservation.
 
+
+## Create Reservations
+![ptRes](https://user-images.githubusercontent.com/78895761/141345518-a9bda8ab-6b91-4a2b-9ec9-63c36ce9d464.png)
+
+## Seat Reservations
+![ptDash](https://user-images.githubusercontent.com/78895761/141345619-79605822-be6f-45d5-a72b-04bc5e8ee834.png)
+
+## Clear Tables after Reservation
+![FinishedSeat](https://user-images.githubusercontent.com/78895761/141345668-74eb9c40-6b15-490d-ac33-d3adf413fc9b.png)
+
+## Search Reservations by Number To confirm Reservations
+![searchCusty](https://user-images.githubusercontent.com/78895761/141346004-6b57efd9-0af2-476d-bd8d-49375a829b3e.png)
+
+
 <h3>Installation</h3>
+
+
 
 1. Fork and clone this repository.
 2. Run `npm install` to install project dependencies.
