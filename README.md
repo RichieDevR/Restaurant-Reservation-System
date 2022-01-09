@@ -3,6 +3,8 @@
 ![](https://img.shields.io/github/languages/top/richiedevr/Restaurant-Reservation-System?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/richiedevr/Restaurant-Reservation-System?style=for-the-badge)
 ![](https://img.shields.io/github/deployments/richiedevr/restaurant-reservation-system/Production%20%E2%80%93%20restaurant-reservation-system?logo=vercel&style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg?style=for-the-badge)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+![](https://img.shields.io/github/languages/code-size/richiedevr/restaurant-reservation-system?style=for-the-badge)
 
 
 
