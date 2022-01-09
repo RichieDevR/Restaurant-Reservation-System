@@ -1,6 +1,10 @@
 <h1>Periodic Tables: Restaurant Reservation System</h1>
 
-Welcome! Thanks for using our app. This app is designed to help users manage reservations for their customers.
+![](https://img.shields.io/github/languages/top/richiedevr/Restaurant-Reservation-System?style=for-the-badge)
+![](https://img.shields.io/github/languages/count/richiedevr/Restaurant-Reservation-System?style=for-the-badge)
+
+
+This app is designed to help users manage reservations for their customers.
 
 Some features include:
 
