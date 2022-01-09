@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/github/languages/top/richiedevr/Restaurant-Reservation-System?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/richiedevr/Restaurant-Reservation-System?style=for-the-badge)
+![](https://img.shields.io/github/deployments/richiedevr/restaurant-reservation-system/Production%20%E2%80%93%20restaurant-reservation-system?logo=vercel&style=for-the-badge)
+
 
 
 This app is designed to help users manage reservations for their customers.
