@@ -55,7 +55,7 @@ function Dashboard({ date, reservations, reservationsError, tables, tablesError,
 			text-uppercase font-weight-light
 			font-italic text-monospace'>
      <h1>Dashboard</h1>
-		<h3 >Reserved for {date}</h3>
+		<h3 >Reserved {date}</h3>
 			</div>
 			<div className='container d-inline-flex flex-xl-row justify-content-center'>
 				<button className="btn btn-secondary m-1 border border-dark" type="button" name="previous" onClick={handleClick}>Previous</button>
