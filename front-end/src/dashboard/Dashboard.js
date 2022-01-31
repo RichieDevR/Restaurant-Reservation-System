@@ -49,14 +49,19 @@ function Dashboard({ date, reservations, reservationsError, tables, tablesError,
 	}
 
 	return (
-		<main>
-		<h1>Dashboard</h1>
-
-		<h4 className="mb-0">Reservations for {date}</h4>
-
-				<button className="btn btn-secondary m-1" type="button" name="previous" onClick={handleClick}>Previous</button>
-				<button className="btn btn-primary m-1" type="button" name="today" onClick={handleClick}>Today</button>
-				<button className="btn btn-secondary m-1" type="button" name="next" onClick={handleClick}>Next</button>
+		<main className='text-monospace text-uppercase font-italic '>
+			<div className='d-flex 
+			p-2 justify-content-between
+			text-uppercase font-weight-light
+			font-italic text-monospace'>
+     <h1>Dashboard</h1>
+		<h3 >Reserved for {date}</h3>
+			</div>
+			<div className='container d-inline-flex flex-xl-row justify-content-center'>
+				<button className="btn btn-secondary m-1 border border-dark" type="button" name="previous" onClick={handleClick}>Previous</button>
+				<button className="btn btn-primary m-1 border border-dark" type="button" name="today" onClick={handleClick}>Today</button>
+				<button className="btn btn-secondary m-1 border border-dark" type="button" name="next" onClick={handleClick}>Next</button>
+			 </div>
 				
 				<ErrorAlert error={reservationsError} />
 
